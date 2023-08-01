@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my Profile 💚
 
-<!--
-**cezar-max/cezar-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cezar Max
 
-Here are some ideas to get you started:
+- I'm studying at [Alura](https://www.alura.com.br)
+- I'm developing in the JavaScript language
+- I use this space for my organization and sharing of my developed projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can contact me 📫
+
+cezar.max@escola.pr.gov.br
+
+![](https://media.tenor.com/nD46ZkEngG0AAAAC/strumming-cole-rolland.gif)
