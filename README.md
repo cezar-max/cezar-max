@@ -1,6 +1,6 @@
 ### Welcome to my Profile 💚
 
-My name is Cezar Max
+My name is **_Cezar Max_** :metal:
 
 - I'm studying at [Alura](https://www.alura.com.br)
 - I'm developing in the JavaScript language
